@@ -19,7 +19,7 @@ function About() {
           {/* Image */}
           <div>
             <img
-              src="/images/hero.jpg"
+               src="/hero.jpg"
               alt="School Building"
               className="rounded-3xl shadow-2xl w-full"
             />

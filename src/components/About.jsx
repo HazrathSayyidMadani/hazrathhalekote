@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import heroImage from "../assets/hero.jpg";
+
 
 
 function About() {
@@ -19,7 +19,7 @@ function About() {
           {/* Image */}
           <div>
             <img
-              src={heroImage}
+              src="/images/hero.jpg"
               alt="School Building"
               className="rounded-3xl shadow-2xl w-full"
             />

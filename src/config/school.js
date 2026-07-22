@@ -17,9 +17,9 @@ const school = {
 
   contact: {
     address: "Halekote, Ullal, Dakshina Kannada, Karnataka - 575020",
-    phone: "+91 98450 00001",
-    email: "info@madanischool.com",
-    whatsapp: "919845000001",
+    phone: "+91 xxxxxxxxxx",
+    email: "xxxx@xxxxxx.com",
+    whatsapp: "91xxxxxxxxxx",
   },
 
 mapEmbed:

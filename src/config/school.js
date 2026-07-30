@@ -15,11 +15,11 @@ const school = {
     accent: "#D4AF37",
   },
 
-  contact: {
+   contact: {
     address: "Halekote, Ullal, Dakshina Kannada, Karnataka - 575020",
-    phone: "+91 xxxxxxxxxx",
-    email: "xxxx@xxxxxx.com",
-    whatsapp: "91xxxxxxxxxx",
+    phone: "0824-2467677",
+    email: "smhshalekote@gmail.com",
+    whatsapp: "0824-2467677",
   },
 
 mapEmbed:

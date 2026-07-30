@@ -23,7 +23,7 @@ const school = {
   },
 
 mapEmbed:
-  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3890.355861262735!2d74.84797737048474!3d12.820265859813922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba35c0aefa271af%3A0x2e3ab157414475a1!2sHalekote%20Rd%2C%20Ullal%2C%20Ullla%2C%20Karnataka%20575020!5e0!3m2!1sen!2sin!4v1784613383104!5m2!1sen!2sin",
+  "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3890.3549445502763!2d74.8502098750739!3d12.820325187481302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTLCsDQ5JzEzLjIiTiA3NMKwNTEnMTAuMCJF!5e0!3m2!1sen!2sin!4v1785399815336!5m2!1sen!2sin",
 
   stats: [
     { number: "380", label: "Students" },
